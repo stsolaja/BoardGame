@@ -1,10 +1,4 @@
-/*
- * Created on: Nov 10, 2025
- *
- * ULID: sasolaj
- * Class: IT 178 
- * Author: Stephen Solaja
- */
+
 package edu.ilstu;
 
 import java.awt.*;
